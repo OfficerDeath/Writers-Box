@@ -1,6 +1,0 @@
-git clone git://github.com/ninja-build/ninja.git && cd ninja
-ninja-build libncursesw5-dev zlib1g-dev libglfw3-dev
-sudo make
-sudo make install
-wordgrinder
-
