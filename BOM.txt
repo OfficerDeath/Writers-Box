@@ -1,0 +1,17 @@
+Any HDMI display
+  Use any hdmi display that you have or fits within your perfered form factor.
+Power Supply
+  Portable Designs
+    USB power supply are the most accessible. For a fully portable design choose a powersupply that can power both the display and the pi
+  Need to power display and pi
+Keyboard
+  USB keyboards are preferred
+Raspberry Pi of any kind
+  If using the pi zero you may need adapters for usb and hdmi
+  If using pi's that do not have wifi annenats a wifi adapted or ethernet adaptor is nessary to download code
+MicroSD card
+  Only needs to be above 8gb
+USB storage device
+  From USB drive to an external hard drive make a choice based on the amount of writing you plan to save to your machine keep in mind that wordgrinder documents are very space
+  In most cases 16GB will be able to hold 89.5 million words 
+    Use of LaTeX or other formating methods decreases this
