@@ -1,2 +1,5 @@
 sudo apt-get install wordgrinder
+cd media/"insert username here"/
+ls
+cd /"drivename found in above refrence"
 wordgrinder
